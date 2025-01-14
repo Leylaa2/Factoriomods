@@ -1,0 +1,10 @@
+{
+    "name": "Leylaa-Mod",
+    "version": "0.0.4",
+    "title": "Leylaa's Mod for a smoother gameplay (Light, Tree Collision, Sience Req)",
+    "author": "Leylaa",
+    "description": "Small tree collisions and more light in the dark. \n\nLogistic System and  Kovarex Enrichment Process will only require red, green and blue science packs (This can be disabled in Mod Settings) \n \n \n 2025/01 \n- Updated for Space Age and added Support for Vanilla\n- Added option to disable siences changes in Mod Settings",
+    "factorio_version": "2.0",
+    "contact": "",
+    "homepage": "https://mods.factorio.com/mod/Leylaa-Mod"
+}
